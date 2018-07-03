@@ -1,0 +1,274 @@
+{
+  "ftp://www.goldsaju.com:21@goldsaju": {
+    "home": {
+      "goldsaju": {
+        ".bash_history": {
+          "type": "-",
+          "size": 3151,
+          "lmtime": 0,
+          "modified": true
+        },
+        ".bash_logout": {
+          "type": "-",
+          "size": 220,
+          "lmtime": 0,
+          "modified": false
+        },
+        ".bashrc": {
+          "type": "-",
+          "size": 3637,
+          "lmtime": 0,
+          "modified": false
+        },
+        ".cache": {},
+        ".config": {},
+        ".npm": {},
+        ".profile": {
+          "type": "-",
+          "size": 675,
+          "lmtime": 0,
+          "modified": false
+        },
+        ".viminfo": {
+          "type": "-",
+          "size": 4428,
+          "lmtime": 0,
+          "modified": true
+        },
+        "README.md": {
+          "type": "-",
+          "size": 1168,
+          "lmtime": 0,
+          "modified": false
+        },
+        "_del_hack1.php": {
+          "type": "-",
+          "size": 88800,
+          "lmtime": 0,
+          "modified": false
+        },
+        "_del_hack_on.php": {
+          "type": "-",
+          "size": 4763,
+          "lmtime": 0,
+          "modified": false
+        },
+        "_web": {},
+        "anyoverlay": {},
+        "assets": {},
+        "bg.jpg": {
+          "type": "-",
+          "size": 3352066,
+          "lmtime": 0,
+          "modified": false
+        },
+        "bg1.jpg": {
+          "type": "-",
+          "size": 1246478,
+          "lmtime": 0,
+          "modified": false
+        },
+        "blogdata": {},
+        "calendar.js": {
+          "type": "-",
+          "size": 45095,
+          "lmtime": 0,
+          "modified": false
+        },
+        "carousel-swipe.js": {
+          "type": "-",
+          "size": 5380,
+          "lmtime": 0,
+          "modified": false
+        },
+        "editor": {},
+        "game": {},
+        "google2003b98d9e47d01e.html": {
+          "type": "-",
+          "size": 53,
+          "lmtime": 0,
+          "modified": false
+        },
+        "i_s.html": {
+          "type": "-",
+          "size": 20023,
+          "lmtime": 0,
+          "modified": false
+        },
+        "index.css": {
+          "type": "-",
+          "size": 3393,
+          "lmtime": 0,
+          "modified": false
+        },
+        "index.html": {
+          "type": "-",
+          "size": 5192,
+          "lmtime": 0,
+          "modified": false
+        },
+        "index20170902_.html": {
+          "type": "-",
+          "size": 4765,
+          "lmtime": 0,
+          "modified": false
+        },
+        "index_final.html": {
+          "type": "-",
+          "size": 4919,
+          "lmtime": 0,
+          "modified": false
+        },
+        "index_login.html": {
+          "type": "-",
+          "size": 5227,
+          "lmtime": 0,
+          "modified": false
+        },
+        "index_main.html": {
+          "type": "-",
+          "size": 4750,
+          "lmtime": 0,
+          "modified": false
+        },
+        "indexx.html": {
+          "type": "-",
+          "size": 28863,
+          "lmtime": 0,
+          "modified": false
+        },
+        "jquery.event.drag-1.5.1.min.js": {
+          "type": "-",
+          "size": 2281,
+          "lmtime": 0,
+          "modified": false
+        },
+        "jquery.fittext.js": {
+          "type": "-",
+          "size": 1115,
+          "lmtime": 0,
+          "modified": false
+        },
+        "jquery.min.js": {
+          "type": "-",
+          "size": 91628,
+          "lmtime": 0,
+          "modified": false
+        },
+        "jquery.slides.min.js": {
+          "type": "-",
+          "size": 11588,
+          "lmtime": 0,
+          "modified": false
+        },
+        "jquery.touch.js": {
+          "type": "-",
+          "size": 3567,
+          "lmtime": 0,
+          "modified": false
+        },
+        "jquery.touchSlider.js": {
+          "type": "-",
+          "size": 14692,
+          "lmtime": 0,
+          "modified": false
+        },
+        "jquery.touchslider.min.js": {
+          "type": "-",
+          "size": 18418,
+          "lmtime": 0,
+          "modified": false
+        },
+        "k": {},
+        "keyword": {},
+        "keyword-free": {},
+        "mainbanner.png": {
+          "type": "-",
+          "size": 18979,
+          "lmtime": 0,
+          "modified": false
+        },
+        "nav-icon.png": {
+          "type": "-",
+          "size": 141,
+          "lmtime": 0,
+          "modified": false
+        },
+        "naver": {},
+        "naver14b2a81df2e1673e978c3ddd657dd289.html": {
+          "type": "-",
+          "size": 67,
+          "lmtime": 0,
+          "modified": false
+        },
+        "naver_parsing.php": {
+          "type": "-",
+          "size": 4023,
+          "lmtime": 0,
+          "modified": false
+        },
+        "normalize.css": {
+          "type": "-",
+          "size": 9566,
+          "lmtime": 0,
+          "modified": false
+        },
+        "onepage": {},
+        "parsing.php": {
+          "type": "-",
+          "size": 6523,
+          "lmtime": 0,
+          "modified": false
+        },
+        "snip": {},
+        "style.css": {
+          "type": "-",
+          "size": 2123,
+          "lmtime": 0,
+          "modified": false
+        },
+        "textile_parsing.php": {
+          "type": "-",
+          "size": 10582,
+          "lmtime": 0,
+          "modified": false
+        },
+        "touchSlider.html": {
+          "type": "-",
+          "size": 15860,
+          "lmtime": 0,
+          "modified": false
+        },
+        "v": {},
+        "video": {},
+        "web": {},
+        "www": {},
+        "x.html": {
+          "type": "-",
+          "size": 3410,
+          "lmtime": 0,
+          "modified": false
+        },
+        "x.js": {
+          "type": "-",
+          "size": 14692,
+          "lmtime": 0,
+          "modified": false
+        },
+        "xmlparse.php": {
+          "type": "-",
+          "size": 3787,
+          "lmtime": 0,
+          "modified": false
+        },
+        "xx.html": {
+          "type": "-",
+          "size": 1961,
+          "lmtime": 0,
+          "modified": false
+        }
+      }
+    }
+  },
+  "$version": 1
+}

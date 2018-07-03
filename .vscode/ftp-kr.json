@@ -1,0 +1,16 @@
+{
+    "host": "www.goldsaju.com",
+    "username": "goldsaju",
+    "password": "cann3295",
+    "remotePath": "/home/goldsaju",
+    "protocol": "ftp",
+    "port": 21,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
